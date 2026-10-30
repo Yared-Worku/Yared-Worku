@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **Yared-Worku/Yared-Worku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
