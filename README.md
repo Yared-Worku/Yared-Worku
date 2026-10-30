@@ -18,6 +18,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-Worku&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+### 🚀 Featured Projects
+
+- **[Project Name](https://github.com/Yared-Worku/repo-name)** – Brief 1-sentence description of what it does and the problem it solves.  
+  `Tech Stack: C# .NET | React | PostgreSQL | Docker`
+- **[Another Project](https://github.com/Yared-Worku/repo-name-2)** – Description of your cross-platform app or enterprise tool.  
+  `Tech Stack: Flutter | Laravel | MariaDB`
 <!--
 **Yared-Worku/Yared-Worku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
