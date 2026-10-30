@@ -7,6 +7,11 @@
 **Full-Stack Software Developer & IT Graduate (BSc with Distinction)**  
 Based in Addis Ababa, Ethiopia 📍
 
+---
+
+### 📊 GitHub Analytics
+
+
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
@@ -66,15 +71,6 @@ Based in Addis Ababa, Ethiopia 📍
 * 🤖 **Artificial Intelligence Fundamentals Nanodegree** – Udacity
 * 📊 **Data Analysis Fundamentals Nanodegree** – Udacity
 * 💻 **Programming Fundamentals Nanodegree** – Udacity
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yared-Worku&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
