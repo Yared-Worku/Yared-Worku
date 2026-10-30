@@ -43,6 +43,7 @@ Based in Addis Ababa, Ethiopia 📍
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### **Databases & DevOps**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -54,13 +55,16 @@ Based in Addis Ababa, Ethiopia 📍
 
 ### 🚀 Featured Projects
 
-* 📱 **[ERPNext Mobile Attendance App](https://github.com/Yared-Worku)**  
+  * ⚙️ **Workflow Management System (BPM)** *(Private Repository)*  
+  Enterprise Business Process Management system built using **DotNetNuke (DNN) CMS**, **C# ASP.NET**, and **SQL Server** on local IIS. Enforces strict automated state transitions and multi-step workflows across distinct user roles.
+
+* 📱 **[ERPNext Mobile Attendance App](https://github.com/Yared-Worku/ERPNext-Attendance-App)**  
   Enterprise cross-platform mobile system built with **React Native (Expo)**, **Zustand**, and **Frappe REST APIs**. Features offline-first queue synchronization, precision GPS geofencing, and native biometrics (Fingerprint/Face ID).
 
-* 🏥 **[HUCMS (Hawassa University Clinic Management System)](https://github.com/Yared-Worku)**  
+* 🏥 **[HUCMS (Hawassa University Clinic Management System)](https://github.com/Yared-Worku/HUCMS)**  
   Full-stack medical platform digitizing clinical workflows, diagnostics, lab testing, and student pharmacy claims. Built using **React**, **C# ASP.NET**, **SQL Server**, and **DotNetNuke (DNN) CMS**.
 
-* 📚 **[Book Shelf Management System](https://github.com/Yared-Worku)**  
+* 📚 **[Book Shelf Management System](https://github.com/Yared-Worku/Bulkybook)**  
   Containerized online bookstore platform utilizing **ASP.NET Core**, hosted on **Render** via **Docker**, and utilizing **PostgreSQL** in production with full RBAC access controls.
 
 ---
