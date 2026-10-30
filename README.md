@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Developer;Backend+%26+Cloud+Architect;CMS+%26+ERPNext+Expert;Hardware-Software+Integration&font=Fira+Code&center=true&width=500&color=FF269A)](https://git.io/typing-svg)
 
-**Full-Stack Software Developer & IT Graduate (BSc with Distinction, CGPA 3.45)**  
+**Full-Stack Software Developer & IT Graduate (BSc with Distinction)**  
 Based in Addis Ababa, Ethiopia 📍
 
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
