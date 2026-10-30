@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Developer/Programmer;Backend+%26+Cloud+Architect;Open+Source+Contributor&font=Fira+Code&center=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Developer/Programmer;Backend+%26+Cloud+Architect;CMS-Expert;Open+Source+Contributor&font=Fira+Code&center=true&width=500)](https://git.io/typing-svg)
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
