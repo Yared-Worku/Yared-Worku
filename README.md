@@ -11,12 +11,9 @@ Based in Addis Ababa, Ethiopia 📍
 ### 📊 GitHub Analytics
 *Code speaks louder than words — GitHub tells the reality.*
 
-### 📊 GitHub Analytics
-*Code speaks louder than words — GitHub tells the reality.*
-
 <p align="center">
-  <img src="https://img.shields.io/github/search/Yared-Worku/Yared-Worku?query=user%3AYared-Worku&style=for-the-badge&label=Repositories&color=FF269A&logo=github" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Collaborated%20Repos-Private%20%26%20Invited-blue?style=for-the-badge&logo=github" alt="Collaborated Repos" />
+  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-FF269A?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Contributions-Invited%20%26%20Collaborative-blue?style=for-the-badge&logo=github" alt="Collaborative Contributions" />
 </p>
 
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
