@@ -11,6 +11,7 @@ Based in Addis Ababa, Ethiopia 📍
 
 ### 📊 GitHub Analytics
 
+[![Yared's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/Yared-Worku)
 
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -20,10 +21,10 @@ Based in Addis Ababa, Ethiopia 📍
 
 ### 👨‍💻 About Me
 
-* 🎓 Graduated with **Distinction** in Information Technology from Hawassa University.
-* 🚀 Specialized in enterprise full-stack web systems, cross-platform mobile apps, and hardware-software integration.
-* 🛠️ Deep expertise in **.NET Core**, **DNN CMS**, **ERPNext / Frappe**, **React Native (Expo)**, and **Docker**.
-* 📜 Certified across **Android Development**, **AI Fundamentals**, and **Data Analysis** (Udacity).
+- 🎓 Graduated with **Distinction** in Information Technology from Hawassa University.
+- 🚀 Specialized in enterprise full-stack web systems, cross-platform mobile apps, and hardware-software integration.
+- 🛠️ Deep expertise in **.NET Core**, **DNN CMS**, **ERPNext / Frappe**, **React Native (Expo)**, and **Docker**.
+- 📜 Certified across **Android Development**, **AI Fundamentals**, and **Data Analysis** (Udacity).
 
 ---
 
@@ -49,32 +50,33 @@ Based in Addis Ababa, Ethiopia 📍
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-  * ⚙️ **Workflow Management System (BPM)** *(Private Repository)*  
+- ⚙️ **Workflow Management System (BPM)** *(Private Repository)*  
   Enterprise Business Process Management system built using **DotNetNuke (DNN) CMS**, **C# ASP.NET**, and **SQL Server** on local IIS. Enforces strict automated state transitions and multi-step workflows across distinct user roles.
 
-* 📱 **[ERPNext Mobile Attendance App](https://github.com/Yared-Worku/ERPNext-Attendance-App)**  
+- 📱 **[ERPNext Mobile Attendance App](https://github.com/Yared-Worku/ERPNext-Attendance-App)**  
   Enterprise cross-platform mobile system built with **React Native (Expo)**, **Zustand**, and **Frappe REST APIs**. Features offline-first queue synchronization, precision GPS geofencing, and native biometrics (Fingerprint/Face ID).
 
-* 🏥 **[HUCMS (Hawassa University Clinic Management System)](https://github.com/Yared-Worku/HUCMS)**  
+- 🏥 **[HUCMS (Hawassa University Clinic Management System)](https://github.com/Yared-Worku/HUCMS)**  
   Full-stack medical platform digitizing clinical workflows, diagnostics, lab testing, and student pharmacy claims. Built using **React**, **C# ASP.NET**, **SQL Server**, and **DotNetNuke (DNN) CMS**.
 
-* 📚 **[Book Shelf Management System](https://github.com/Yared-Worku/Bulkybook)**  
+- 📚 **[Book Shelf Management System](https://github.com/Yared-Worku/Bulkybook)**  
   Containerized online bookstore platform utilizing **ASP.NET Core**, hosted on **Render** via **Docker**, and utilizing **PostgreSQL** in production with full RBAC access controls.
 
 ---
 
 ### 🏆 Verified Certifications
 
-* 🎓 **Android Developer Fundamentals Nanodegree** – Udacity
-* 🤖 **Artificial Intelligence Fundamentals Nanodegree** – Udacity
-* 📊 **Data Analysis Fundamentals Nanodegree** – Udacity
-* 💻 **Programming Fundamentals Nanodegree** – Udacity
+- 🎓 **Android Developer Fundamentals Nanodegree** – Udacity
+- 🤖 **Artificial Intelligence Fundamentals Nanodegree** – Udacity
+- 📊 **Data Analysis Fundamentals Nanodegree** – Udacity
+- 💻 **Programming Fundamentals Nanodegree** – Udacity
 
 ---
 
