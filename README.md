@@ -8,13 +8,18 @@
 Based in Addis Ababa, Ethiopia 📍
 
 ---
-
 ### 📊 GitHub Analytics
 *Code speaks louder than words — GitHub tells the reality.*
 
-  [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://img.shields.io/github/repos/user/Yared-Worku?style=for-the-badge&label=Created%20Repositories&color=FF269A&logo=github" alt="Created Repositories" />
+  <img src="https://img.shields.io/badge/Collaborated%20Repos-Include%20Private%20Contributions-blue?style=for-the-badge&logo=github" alt="Collaborated Repos" />
+</p>
+
+[![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Yared's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yared-Worku&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
