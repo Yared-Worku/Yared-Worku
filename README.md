@@ -11,7 +11,7 @@ Based in Addis Ababa, Ethiopia 📍
 
 ### 📊 GitHub Analytics
 
-[![Yared's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)](https://github.com/Yared-Worku)
+[![Yared's GitHub Stats](https://github-readme-stats.demolab.com/api?username=Yared-Worku&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Yared-Worku)
 
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
