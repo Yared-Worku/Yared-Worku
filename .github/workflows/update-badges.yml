@@ -27,8 +27,8 @@ jobs:
 
       - name: Update README Badges
         run: |
-          sed -i -E "s/label=Repositories&message=[0-9]*/label=Repositories\&message=${TOTAL_REPOS}/g" README.md
-          sed -i -E "s/label=Collaborations&message=[0-9]*/label=Collaborations\&message=${COLLAB_REPOS}/g" README.md
+          sed -i -E "s/Repositories-[0-9]+/Repositories-${TOTAL_REPOS}/g" README.md
+          sed -i -E "s/Collaborations-[0-9]+/Collaborations-${COLLAB_REPOS}/g" README.md
 
       - name: Commit and Push Changes
         run: |
