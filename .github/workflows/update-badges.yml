@@ -1,0 +1,35 @@
+name: Update Profile Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Repository Counts
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          TOTAL_REPOS=$(gh api user --jq '.total_private_repos + .public_repos')
+          COLLAB_REPOS=$(gh api user/repos?type=collaborator --jq 'length')
+
+          echo "TOTAL_REPOS=$TOTAL_REPOS" >> $GITHUB_ENV
+          echo "COLLAB_REPOS=$COLLAB_REPOS" >> $GITHUB_ENV
+
+      - name: Update README Badges
+        run: |
+          sed -i -E "s/label=Repositories&message=[0-9]*/label=Repositories\&message=${TOTAL_REPOS}/g" README.md
+          sed -i -E "s/label=Collaborations&message=[0-9]*/label=Collaborations\&message=${COLLAB_REPOS}/g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update: refresh repository badge metrics" && git push)
