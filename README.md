@@ -20,7 +20,7 @@ Based in Addis Ababa, Ethiopia 📍
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yared-Worku&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yared-Worku&layout=compact&theme=radical&count_private=true&include_all_commits=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 </div>
