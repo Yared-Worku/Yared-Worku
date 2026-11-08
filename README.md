@@ -10,6 +10,7 @@ Based in Addis Ababa, Ethiopia 📍
 ---
 
 ### 📊 GitHub Analytics
+*Code speaks louder than words — GitHub tells the reality.*
 
   [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <p align="center">
