@@ -19,14 +19,14 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
-          # 1. Total repos owned by you (Public + Private) -> 30
-          TOTAL_OWNED=$(gh api user --jq '.total_private_repos + .public_repos')
-          
-          # 2. Private repos owned by you -> 23
+          # 1. Total Owned Repositories (Public + Private = 30)
+          TOTAL_OWNED=$(gh api user --jq '.public_repos + .total_private_repos')
+
+          # 2. Private Repositories (23)
           PRIVATE_REPOS=$(gh api user --jq '.total_private_repos')
-          
-          # 3. Repos you were invited to / collaborated on owned by others
-          COLLAB_REPOS=$(gh api user/repos?affiliation=collaborator --jq 'length')
+
+          # 3. Collaborations (Repositories owned by OTHERS where you are a collaborator)
+          COLLAB_REPOS=$(gh api user/repos?type=member --jq '[.[] | select(.owner.login != "Yared-Worku")] | length')
 
           echo "TOTAL_OWNED=$TOTAL_OWNED" >> $GITHUB_ENV
           echo "PRIVATE_REPOS=$PRIVATE_REPOS" >> $GITHUB_ENV
@@ -34,9 +34,9 @@ jobs:
 
       - name: Update README Badges
         run: |
-          sed -i -E "s/Total%20Repos-[0-9]+/Total%20Repos-${TOTAL_OWNED}/g" README.md
-          sed -i -E "s/Private%20Repos-[0-9]+/Private%20Repos-${PRIVATE_REPOS}/g" README.md
-          sed -i -E "s/Collaborations-[0-9]+/Collaborations-${COLLAB_REPOS}/g" README.md
+          sed -i -E "s/TOTAL%20REPOS-[0-9]+/TOTAL%20REPOS-${TOTAL_OWNED}/g" README.md
+          sed -i -E "s/PRIVATE%20REPOS-[0-9]+/PRIVATE%20REPOS-${PRIVATE_REPOS}/g" README.md
+          sed -i -E "s/COLLABORATIONS-[0-9]+/COLLABORATIONS-${COLLAB_REPOS}/g" README.md
 
       - name: Commit and Push Changes
         run: |
