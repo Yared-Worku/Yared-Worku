@@ -13,7 +13,7 @@ Based in Addis Ababa, Ethiopia 📍
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL%20REPOS-30-FF269A?style=for-the-badge&logo=github" alt="Total Repositories" />
-  <img src="https://img.shields.io/badge/PRIVATE%20REPOS-7-purple?style=for-the-badge&logo=github" alt="Private Repositories" />
+  <img src="https://img.shields.io/badge/PRIVATE%20REPOS-12-purple?style=for-the-badge&logo=github" alt="Private Repositories" />
   <img src="https://img.shields.io/badge/COLLABORATIONS-9-blue?style=for-the-badge&logo=github" alt="Collaborations" />
 </p>
 
