@@ -12,8 +12,9 @@ Based in Addis Ababa, Ethiopia 📍
 *Code speaks louder than words — GitHub tells the reality.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-23-FF269A?style=for-the-badge&logo=github" alt="Repositories Count" />
-  <img src="https://img.shields.io/badge/Collaborations-30-blue?style=for-the-badge&logo=github" alt="Collaborations Count" />
+  <img src="https://img.shields.io/badge/Total%20Repos-0-FF269A?style=for-the-badge&logo=github" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/Private%20Repos-0-purple?style=for-the-badge&logo=github" alt="Private Repos" />
+  <img src="https://img.shields.io/badge/Collaborations-0-blue?style=for-the-badge&logo=github" alt="Collaborations" />
 </p>
 
 [![Yared's GitHub Streak](https://streak-stats.demolab.com/?user=Yared-Worku&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
